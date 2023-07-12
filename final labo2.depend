@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1688581339 source:f:\descargas\tup\final labo2\auto.c
+
+1688586602 source:f:\descargas\tup\final labo2\lista test.c
+	"lista test.h"
+
+1688595036 f:\descargas\tup\final labo2\lista test.h
+	<stdio.h>
+	<strings.h>
+	<stdlib.h>
+
+1689022422 source:f:\descargas\tup\final labo2\main.c
+	"lista test.h"
+	"registroArchivo.h"
+	"animalYNodos.h"
+
+1689018873 f:\descargas\tup\final labo2\registroarchivo.h
+	<stdio.h>
+	<strings.h>
+	<stdlib.h>
+
+1689019379 source:f:\descargas\tup\final labo2\registroarchivo.c
+	"registroArchivo.h"
+
+1689023159 source:f:\descargas\tup\final labo2\animalynodos.c
+	"animalYNodos.h"
+
+1689022405 f:\descargas\tup\final labo2\animalynodos.h
+	"registroArchivo.h"
+
+1689024503 source:f:\descargas\tup\finallabo2\animalynodos.c
+	"animalYNodos.h"
+
+1689022405 f:\descargas\tup\finallabo2\animalynodos.h
+	"registroArchivo.h"
+
+1689018873 f:\descargas\tup\finallabo2\registroarchivo.h
+	<stdio.h>
+	<strings.h>
+	<stdlib.h>
+
+1688581339 source:f:\descargas\tup\finallabo2\auto.c
+
+1688586602 source:f:\descargas\tup\finallabo2\lista test.c
+	"lista test.h"
+
+1688595036 f:\descargas\tup\finallabo2\lista test.h
+	<stdio.h>
+	<strings.h>
+	<stdlib.h>
+
+1689024453 source:f:\descargas\tup\finallabo2\main.c
+	"lista test.h"
+	"registroArchivo.h"
+	"animalYNodos.h"
+
+1689019379 source:f:\descargas\tup\finallabo2\registroarchivo.c
+	"registroArchivo.h"
+
